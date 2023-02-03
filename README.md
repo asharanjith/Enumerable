@@ -79,6 +79,13 @@ cd Enumerable
 - LinkedIn: [asha-vijayan](www.linkedin.com/in/ashavijayan)
 
 
+👤 **Saikat Chakraborty**
+
+- GitHub: [@saikat](https://github.com/saikatgpae)
+- Twitter: [@saikatgpae](https://twitter.com/saikatgpae)
+- LinkedIn: [Saikat](https://www.linkedin.com/in/saikatgpae/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 
